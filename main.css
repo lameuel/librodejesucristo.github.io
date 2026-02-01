@@ -127,7 +127,7 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  max-width: 2000px;
+  max-width: 60vw;
 }
 #nuevopacto {
   color: rgba(3, 223, 252);

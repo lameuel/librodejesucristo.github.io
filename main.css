@@ -181,8 +181,7 @@ body {
   z-index: 7;
   border-color: antiquewhite;
   padding: .3em;
-  margin-right: 7vw;
-  max-width: 2000px;
+  max-width:60vw;
 }
 .subtitle {
   display: block;
